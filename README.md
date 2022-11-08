@@ -1,6 +1,8 @@
 # MetroidVLand_Bootstrap
 
 This is an easy web page about an game news.
+<br>
+[Link](https://ricardorobledo.github.io/MetroidVLand_Bootstrap/)
 
 
 <br>
